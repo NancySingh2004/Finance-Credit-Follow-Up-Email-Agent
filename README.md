@@ -56,6 +56,8 @@ Uses Groq + Llama 3.1 to generate:
 * Professional payment reminders
 * Dynamic escalation tone
 * Context-aware finance communication
+  <img width="1831" height="862" alt="image" src="https://github.com/user-attachments/assets/ef55640c-0e04-4424-add9-c0aff682d1f7" />
+
 
 ---
 
