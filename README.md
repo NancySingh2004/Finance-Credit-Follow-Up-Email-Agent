@@ -96,6 +96,8 @@ Tracks:
 * Timestamps
 * Invoice IDs
 * Processing stages
+  <img width="1247" height="365" alt="image" src="https://github.com/user-attachments/assets/81a37c66-2730-4d83-8794-191a527a6bb4" />
+
 
 Logs are saved in:
 
