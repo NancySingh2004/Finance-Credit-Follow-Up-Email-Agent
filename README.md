@@ -331,7 +331,7 @@ python -m venv .venv
 ### Activate Environment (Windows)
 
 ```bash
-.venv\Scripts\activate
+.\.venv\Scripts\Activate.ps1
 ```
 
 ---
