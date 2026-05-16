@@ -10,6 +10,15 @@ https://drive.google.com/file/d/1td6hr1_RIViV2lnWqhAEKumHBDtSaiRE/view?usp=shari
 
 
 ---
+
+# Presentation Link
+
+https://docs.google.com/presentation/d/1Edoj2JDpjdy0IyocRNl1G262QbK-8eCK/edit?usp=sharing&ouid=115769616357127137511&rtpof=true&sd=true
+
+
+---
+
+
 # Project Overview
 
 The AI Finance Email Agent helps finance teams automate pending payment reminder workflows.
