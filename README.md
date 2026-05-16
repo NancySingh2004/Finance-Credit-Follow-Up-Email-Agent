@@ -441,6 +441,8 @@ INV001,Rajesh Kumar,45000,2026-05-10,test@gmail.com,1
 4. Review/edit draft
 5. Dry-run dispatch
 6. Save audit logs
+   <img width="1862" height="900" alt="image" src="https://github.com/user-attachments/assets/e05984b0-420f-4678-99c3-f9a2cd3a9e88" />
+
 
 ---
 
